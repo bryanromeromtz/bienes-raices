@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Juan De La Torre",
-  "license": "ISC",
+  "author": "Bryan Sepia",
+  "license": "MIT",
   "devDependencies": {
     "cssnano": "^5.1.0",
     "gulp": "^4.0.2",
@@ -25,5 +25,13 @@
     "gulp-webp": "^4.0.1",
     "sass": "^1.49.9",
     "terser": "^4.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanromeromtz/bienes-raices.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bryanromeromtz/bienes-raices/issues"
+  },
+  "homepage": "https://github.com/bryanromeromtz/bienes-raices#readme"
 }
